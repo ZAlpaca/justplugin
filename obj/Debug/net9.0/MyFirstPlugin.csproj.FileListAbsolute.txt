@@ -1,0 +1,12 @@
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.csproj.AssemblyReference.cache
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.AssemblyInfoInputs.cache
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.AssemblyInfo.cs
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.csproj.CoreCompileInputs.cache
+/home/alpaca/Projects/MyFirstPlugin/bin/Debug/net9.0/MyFirstPlugin.deps.json
+/home/alpaca/Projects/MyFirstPlugin/bin/Debug/net9.0/MyFirstPlugin.dll
+/home/alpaca/Projects/MyFirstPlugin/bin/Debug/net9.0/MyFirstPlugin.pdb
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.dll
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/refint/MyFirstPlugin.dll
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/MyFirstPlugin.pdb
+/home/alpaca/Projects/MyFirstPlugin/obj/Debug/net9.0/ref/MyFirstPlugin.dll

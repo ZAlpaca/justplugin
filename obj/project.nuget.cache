@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWTpSsOT3qk=",
+  "success": true,
+  "projectFilePath": "/home/alpaca/Projects/MyFirstPlugin/MyFirstPlugin.csproj",
+  "expectedPackageFiles": [
+    "/home/alpaca/.nuget/packages/exiled/8.9.11/exiled.8.9.11.nupkg.sha512",
+    "/home/alpaca/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/alpaca/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
